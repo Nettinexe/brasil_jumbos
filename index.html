@@ -28,8 +28,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <!-- Preload da fotografia da Hero (LCP), separado por media para não baixar
      as duas versões: só a que o viewport realmente vai usar. -->
-<link rel="preload" as="image" href="assets/images/lateral.webp" media="(min-width: 1024px)" fetchpriority="high">
-<link rel="preload" as="image" href="assets/images/frente.webp" media="(max-width: 1023px)" fetchpriority="high">
+<link rel="preload" as="image" href="lateral.webp" media="(min-width: 1024px)" fetchpriority="high">
+<link rel="preload" as="image" href="frente.webp" media="(max-width: 1023px)" fetchpriority="high">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&display=swap">
 <link rel="stylesheet" href="styles.css">
 <script>document.documentElement.classList.add('js');</script>
@@ -124,7 +124,7 @@
          responsivo (sem JS): frontal/centralizada no mobile, 3/4 com João à
          direita no desktop. Preenche integralmente a área destinada a ela. -->
     <picture class="hero__media" data-reveal-figure>
-      <source media="(max-width: 1023px)" srcset="assets/images/frente.webp" type="image/webp">
+      <source media="(max-width: 1023px)" srcset="frente.webp" type="image/webp">
       <img
         src="lateral.webp"
         alt="João Teixeira, criador do Brasil Jumbos"
@@ -459,9 +459,9 @@
   </div>
 </footer>
 
-<script src="data/latest-videos.js"></script>
-<script src="data/featured-posts.js"></script>
-<script src="data/social-config.js"></script>
+<script src="latest-videos.js"></script>
+<script src="featured-posts.js"></script>
+<script src="social-config.js"></script>
 <script src="script.js" defer></script>
 </body>
 </html>
