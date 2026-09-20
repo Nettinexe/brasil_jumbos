@@ -39,7 +39,7 @@
 window.BRASIL_JUMBOS_LATEST_VIDEOS = [
   {
     /* CENTRO — vídeo principal */
-    thumbnail: "assets/images/tumbMulherpegaCascudogigantenaamazônia.png",
+    thumbnail: "assets/tumbMulherpegaCascudogigantenaamazônia.png",
     url: "https://www.instagram.com/reel/DdZh1lSp_Du/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
     title: "Mulher pega Cascudo gigante na amazônia!!",
     width: 1080,
@@ -47,7 +47,7 @@ window.BRASIL_JUMBOS_LATEST_VIDEOS = [
   },
   {
     /* ESQUERDA — segundo vídeo */
-    thumbnail: "assets/images/tumbCascudosecovoltaavidadeformamilagrosa.png",
+    thumbnail: "assets/tumbCascudosecovoltaavidadeformamilagrosa.png",
     url: "https://www.instagram.com/reel/DdZl8gtpWU2/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
     title: "Cascudo seco volta a vida de forma milagrosa?",
     width: 1080,
@@ -55,7 +55,7 @@ window.BRASIL_JUMBOS_LATEST_VIDEOS = [
   },
   {
     /* DIREITA — terceiro vídeo */
-    thumbnail: "assets/images/tumbPorqueaLulamudadecorquandoabatida.png",
+    thumbnail: "assets/tumbPorqueaLulamudadecorquandoabatida.png",
     url: "https://www.instagram.com/reel/DdM0LygJ-Sf/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
     title: "Por que a Lula muda de cor quando abatida?",
     width: 1080,
